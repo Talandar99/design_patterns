@@ -3,3 +3,4 @@ this repo contain design pattern examples written in rust
 ## Creational
 - ![Factory](src/factory.rs)
 - ![Abstract Factory](src/abstract_factory.rs)
+- ![Builder](src/builder.rs)
