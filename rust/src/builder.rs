@@ -77,7 +77,7 @@ impl Director {
     }
 }
 
-fn main() {
+pub fn builder_main() {
     // Creating a ConcreteBuilder instance.
     let builder = Box::new(ConcreteBuilder::new());
 
