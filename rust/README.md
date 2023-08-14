@@ -7,9 +7,9 @@ design pattern examples written in rust
 - [Prototype](src/prototype)
 - [Singleton](src/singleton)
 ## Structural 
-- `[Adapter]()`
-- `[Bridge]()`
-- `[Composite]()`
+- [Adapter](src/adapter)
+- [Bridge](src/bridge)
+- [Composite](src/composite)
 - `[Decorator]()`
 - `[Facade]()`
 - `[Flyweight]()`
