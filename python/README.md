@@ -1,9 +1,9 @@
-# Rust
-design pattern examples written in rust
+# Python 
+design pattern examples written in pyhon
 ## Creational
-- [Factory](src/factory.rs)
-- [Abstract Factory](src/abstract_factory.rs)
-- [Builder](src/builder.rs)
+- `[Factory]()`
+- `[Abstract Factory]()`
+- `[Builder]()`
 - `[Prototype]()`
 - `[Singleton]()`
 ## Structural 
