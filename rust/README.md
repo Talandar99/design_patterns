@@ -4,8 +4,8 @@ design pattern examples written in rust
 - [Factory](src/factory.rs)
 - [Abstract Factory](src/abstract_factory.rs)
 - [Builder](src/builder.rs)
-- `[Prototype]()`
-- `[Singleton]()`
+- [Prototype](src/prototype)
+- [Singleton](src/singleton)
 ## Structural 
 - `[Adapter]()`
 - `[Bridge]()`

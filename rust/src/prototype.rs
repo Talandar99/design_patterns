@@ -20,7 +20,6 @@ impl Prototype {
 // there are 2 kinds of copying
 // shallow - 2 objects may share something by internal reference
 // deep - 2 objects can't share anything internaly
-//
 pub fn prototype_main() {
     // Creating a prototype instance.
     let original_prototype = Prototype::new("Original Data");
