@@ -1,5 +1,6 @@
 # Python 
-design pattern examples written in pyhon
+Design pattern examples written in python
+
 ## Creational
 - [Factory](factory.py)
 - [Abstract Factory](abstract_factory.py)
@@ -7,13 +8,13 @@ design pattern examples written in pyhon
 - [Prototype](prototype.py)
 - [Singleton](singleton.py)
 ## Structural 
-- `[Adapter]()`
-- `[Bridge]()`
-- `[Composite]()`
-- `[Decorator]()`
-- `[Facade]()`
-- `[Flyweight]()`
-- `[Proxy]()`
+- [Adapter](adapter.py)
+- [Bridge](bridge.py)
+- [Composite](composite.py)
+- [Decorator](decorator.py)
+- [Facade](facade.py)
+- [Flyweight](flyweight.py)
+- [Proxy](proxy.py)
 ## Behavioral
 - `[Chain of responsibility]()`
 - `[Command]()`

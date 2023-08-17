@@ -1,4 +1,4 @@
-# design_patterns_rust
+# design patterns
 this repo contain design pattern examples
 ## Languages 
 - [Rust](rust/README.md)
